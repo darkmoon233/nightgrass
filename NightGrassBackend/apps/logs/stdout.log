@@ -1,8 +1,0 @@
-[2021-05-15 21:42:59,116] WARNING in _internal:  * Running on all addresses.
-   WARNING: This is a development server. Do not use it in a production deployment.
-[2021-05-15 21:42:59,116] INFO in _internal:  * Running on http://10.0.12.10:8000/ (Press CTRL+C to quit)
-[2021-05-15 21:42:59,118] INFO in _internal:  * Restarting with stat
-[2021-05-15 21:42:59,398] WARNING in _internal:  * Debugger is active!
-[2021-05-15 21:42:59,399] INFO in _internal:  * Debugger PIN: 841-153-271
-[2021-05-15 21:43:02,762] INFO in manage: run server at port 8000
-[2021-05-15 21:43:02,783] INFO in manage: run server at port 8000
